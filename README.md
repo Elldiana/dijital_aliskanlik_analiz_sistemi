@@ -2,7 +2,7 @@
 
 Bu proje, kullanıcıların ekran sürelerini ve dijital alışkanlıklarını analiz etmeyi sağlayan web tabanlı bir dashboard uygulamasıdır.
 
-## 🛠️ Kullanılacak Teknolojiler
+## Kullanılacak Teknolojiler
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5
 * **Backend:** Java, Spring Boot
 * **Veritabanı:** MySQL
