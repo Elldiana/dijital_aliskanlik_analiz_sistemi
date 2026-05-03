@@ -8,7 +8,7 @@ Bu proje, kullanıcıların ekran sürelerini ve dijital alışkanlıklarını a
 * **Veritabanı:** MySQL
 * **Geliştirme Ortamı:** Visual Studio Code
 
-## 🚀 Geliştirme Ortamı Kurulum Adımları
+## Geliştirme Ortamı Kurulum Adımları
 Tüm takım üyelerinin projeyi kendi yerel bilgisayarında (local environment) çalıştırabilmesi için aşağıdaki adımlar izlenmelidir:
 
 1. **Repoyu Klonlama:**
